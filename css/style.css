@@ -1,0 +1,43 @@
+
+header{
+    display: block;
+    height: 80px;
+}
+
+.logo-div{
+    float: left;
+    margin: 10px;
+}
+#text-logo-div{
+    display: inline-block;
+
+}
+#text-logo-div span{
+    display: block;
+}
+#text-logo-div #logo-text1{
+    display: inline-block;
+    font-weight: 900;
+    font-family: 'Italianno', cursive;
+    font-size: 45px;
+
+}
+#logo-text2{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 15px;
+    color: gray;
+    margin-top: -10px;
+}
+.social-div{
+    float: right;
+    margin-top: 25px;
+    margin-right: 10px;
+
+}
+.social-div #img{
+    margin-left: 10px;
+}
+#border{
+    display: block;
+    margin-top: 15px;
+}
